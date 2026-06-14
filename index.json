@@ -5,7 +5,7 @@
             "name": "Goku Instinct",
             "author": "Lazor",
             "description": "A powerful theme featuring Ultra Instinct Goku with dark semi-transparent overlays, vibrant glowing borders, and custom kanji menu icons.",
-            "version": "1.0.21"
+            "min_version": "1.0.20"
         }
     ]
 }
