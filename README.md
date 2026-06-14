@@ -24,5 +24,5 @@ When submitting, make sure your theme file contains or includes the following de
 * **Name** — What your theme is called.
 * **Author** — Your name/handle.
 * **Description** — A short breakdown of your theme's vibe or style.
-* **Minimum Version** — Minimum Void version for your theme to work properly.
+* **Minimum Void Version** — Minimum Void version for your theme to work properly.
 
