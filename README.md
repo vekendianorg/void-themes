@@ -20,9 +20,8 @@ Since themes are stored in the cloud, you don't need to struggle with Git or Git
 When submitting, make sure your theme file contains or includes the following details:
 
 * **Theme ID** — Unique identifier for the system.
-* **Theme Version** — Your theme version.
 * **Name** — What your theme is called.
 * **Author** — Your name/handle.
 * **Description** — A short breakdown of your theme's vibe or style.
-* **Minimum Void Version** — Minimum Void version for your theme to work properly.
+* **Minimum Version** — Minimum Void version for your theme to work properly.
 
