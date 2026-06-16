@@ -6,6 +6,13 @@
             "author": "Lazor",
             "description": "A powerful theme featuring Ultra Instinct Goku with dark semi-transparent overlays, vibrant glowing borders, and custom kanji menu icons.",
             "min_version": "1.0.20"
+        },
+        {
+        	"id": "5gkuK",
+        	"name": "Neo-Tokyo Cyber City",
+        	"author": "Lazor",
+        	"description": "An ultra-sleek, semi-transparent tech setup anchored by deep obsidian midnight tones and sharp neon city lights.",
+        	"min_version": "1.0.20"
         }
     ]
 }
