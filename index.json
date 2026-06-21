@@ -8,11 +8,18 @@
             "min_version": "1.0.20"
         },
         {
-        	"id": "5gkuK",
-        	"name": "Neo-Tokyo Cyber City",
-        	"author": "Lazor",
-        	"description": "An ultra-sleek, semi-transparent tech setup anchored by deep obsidian midnight tones and sharp neon city lights.",
-        	"min_version": "1.0.20"
+            "id": "5gkuK",
+            "name": "Neo-Tokyo Cyber City",
+            "author": "Lazor",
+            "description": "An ultra-sleek, semi-transparent tech setup anchored by deep obsidian midnight tones and sharp neon city lights.",
+            "min_version": "1.0.20"
+        },
+        {
+            "id": "wkNDu",
+            "name": "Classic Nexen",
+            "author": "Lazor",
+            "description": "A nostalgic throwback theme featuring solid charcoal cards, deep dark backgrounds, and iconic high-contrast cyan accents from the days before Void rebrand.",
+            "min_version": "1.0.20"
         }
     ]
 }
