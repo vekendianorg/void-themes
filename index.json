@@ -20,6 +20,13 @@
             "author": "Lazor",
             "description": "A nostalgic throwback theme featuring solid charcoal cards, deep dark backgrounds, and iconic high-contrast cyan accents from the days before Void rebrand.",
             "min_version": "1.0.20"
+        },
+        {
+        	"id": "hYHOe",
+        	"name": "Midnight Flux",
+        	"author": "Lazor",
+        	"description": "A rhythmic, neon ribbon suspended in total darkness. It captures the energy of a wave frozen mid-flow, turning silence into a sharp, electric visual.",
+        	"min_version": "1.0.20"
         }
     ]
 }
